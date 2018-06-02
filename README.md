@@ -1,3 +1,4 @@
 # pete-says-hello-world
-first playground
-it´s a rocky path
+
+it´s an easy path
+go for it
